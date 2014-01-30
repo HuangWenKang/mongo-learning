@@ -48,6 +48,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BsonDoc\BsonDocumentSerialization.cs" />
+    <Compile Include="BsonDoc\BsonSerializerApi.cs" />
+    <Compile Include="BsonDoc\BsonTests.cs" />
     <Compile Include="DeserializationOfKeyWithNullValueVersusNoKey.cs" />
     <Compile Include="MongoAggregate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
