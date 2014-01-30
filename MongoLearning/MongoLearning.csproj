@@ -51,6 +51,7 @@
     <Compile Include="BsonDoc\BsonDocumentSerialization.cs" />
     <Compile Include="BsonDoc\BsonSerializerApi.cs" />
     <Compile Include="BsonDoc\BsonTests.cs" />
+    <Compile Include="BsonDoc\SettingsCascades.cs" />
     <Compile Include="DeserializationOfKeyWithNullValueVersusNoKey.cs" />
     <Compile Include="MongoAggregate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
