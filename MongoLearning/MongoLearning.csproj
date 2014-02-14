@@ -55,6 +55,7 @@
     <Compile Include="DeserializationOfKeyWithNullValueVersusNoKey.cs" />
     <Compile Include="MongoAggregate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SetJournalingGlobally.cs" />
     <Compile Include="TestsBase.cs" />
   </ItemGroup>
   <ItemGroup>
