@@ -53,6 +53,7 @@
     <Compile Include="BsonDoc\BsonTests.cs" />
     <Compile Include="BsonDoc\SettingsCascades.cs" />
     <Compile Include="DeserializationOfKeyWithNullValueVersusNoKey.cs" />
+    <Compile Include="Features_1_9\BulkOperations.cs" />
     <Compile Include="MongoAggregate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SetJournalingGlobally.cs" />
